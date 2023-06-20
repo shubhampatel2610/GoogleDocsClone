@@ -1,6 +1,6 @@
 # GoogleDocsClone
 
-## Front-end : ReactJS, Socket.io, MaterialUI, JavaScript, Html, Css
+## Front-end : ReactJS, Quill, Socket.io, MaterialUI, JavaScript, Html, Css
 
 ## Back-end : Socket.io, mongoDB
 
@@ -13,8 +13,8 @@
 ## Data in mongoDB
 ![Screenshot (205)](https://github.com/shubhampatel2610/GoogleDocsClone/assets/105007678/1f711350-5d49-4b44-9145-b1631e377d57)
 
-## Same docs, diffrent users(Sharing)
+## Same docs, different users(Sharing)
 ![sameDocs](https://github.com/shubhampatel2610/GoogleDocsClone/assets/105007678/579814e4-6d00-4da2-9f6c-459cc38b4e73)
 
-## Diffrent docs
+## Different docs
 ![diffDocs](https://github.com/shubhampatel2610/GoogleDocsClone/assets/105007678/e7ff7469-d307-44ff-bae8-defaf3a82b38)
